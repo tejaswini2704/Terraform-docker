@@ -1,13 +1,13 @@
-## 🧱 Task 4: Infrastructure as Code (IaC) with Terraform
+## Task 4: Infrastructure as Code (IaC) with Terraform
 
-### 🎯 Objective
+###  Objective
 Provision and manage a Docker container using Terraform — demonstrating Infrastructure as Code automation.
 
-### �� Tools
+### Tools
 - Terraform
 - Docker
 
-### ⚙️ Steps Performed
+### Steps Performed
 1. Created `main.tf` using Docker provider.
 2. Initialized Terraform (`terraform init`).
 3. Validated and planned configuration (`terraform plan`).
@@ -17,11 +17,11 @@ Provision and manage a Docker container using Terraform — demonstrating Infras
 7. Destroyed infrastructure (`terraform destroy`).
 8. Captured logs in `logs/terraform-execution.txt`.
 
-### 🪄 Output
+### Output
 - A running **nginx** container accessible at [http://localhost:8080](http://localhost:8080)
 - Terraform-managed infrastructure stored in **terraform.tfstate**
 
-### 🏁 Key Commands
+### Key Commands
 ```bash
 terraform init
 terraform plan
