@@ -1,4 +1,4 @@
-## 🧱 Task 3: Infrastructure as Code (IaC) with Terraform
+## 🧱 Task 4: Infrastructure as Code (IaC) with Terraform
 
 ### 🎯 Objective
 Provision and manage a Docker container using Terraform — demonstrating Infrastructure as Code automation.
